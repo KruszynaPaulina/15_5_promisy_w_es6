@@ -6,8 +6,7 @@ Zadanie wykonane w ramamch bootcampu Kodilla - "JavaScript developer" - II czę�
 
 Opis:
 Zadanie ma na celu przećwiczenie w praktyce używanie promisów oraz pisanie skryptów za pomocą standardu 
-ES6 i biblioteki React. Efektem zadania jest aplikacja wyszukująca użytkowników Githuba. 
-Aplikacja pobiera zdjęcie, login oraz link do repozytorium poprzed udostepnione przez serwis API.
+ES6 i biblioteki React. Efektem zadania jest wyszukiwarka gifów pobierająca obrazki przez API (https://developers.giphy.com).
 
 Rozwiązania, tchnologie i narzędzia:
 - HTML 5
@@ -16,6 +15,8 @@ Rozwiązania, tchnologie i narzędzia:
 - ES6
 - React
 - JSX
+- API (https://developers.giphy.com)
+- AJAX
 - Npm (task runner)
 - Babel
 - Babel-polyfill
